@@ -1,0 +1,9 @@
+(
+  (
+    (define ((x) (3)))
+    '(x y z)
+    (if (< x y)  (assign a x)  (assign a y))
+    (lambda (< b (- 2 0))  (assign b (+ b 1)))
+  )
+  
+)
